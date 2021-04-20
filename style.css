@@ -13,7 +13,7 @@ html {
 h1{
   font-size: 3rem;
 	color: #e2dbdb;
-	margin-left: 200px;
+
 }
 
 .buffer{
@@ -27,7 +27,6 @@ border-radius: 300px;
 .btn-primary{
   background-color: #f05f44;
   border-color: #f05f44;
-  margin-left: 200px;
 }
 
 .btn-primary:hover {
